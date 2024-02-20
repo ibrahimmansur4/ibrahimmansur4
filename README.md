@@ -2,14 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=ibrahimmansur4&color=grey)
 
 - 🔭 I am a soon-to-be electrical engineer.
-- 🌱 I’m currently focused on control systems, robotics and embedded systems.
+- 🌱 I’m currently doing projects on robotics and embedded systems.
 
 
 
 ### My Interest :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,vscode,ros,python,arduino,linux,docker,linkedin,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,vscode,ros,python,arduino,linux,docker,opencv,tensorflow,bash&perline=6" />
   </a>
 </p>
 
