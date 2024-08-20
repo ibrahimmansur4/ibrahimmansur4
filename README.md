@@ -10,7 +10,7 @@
 ### My Interest :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,cpp,vscode,ros,python,arduino,linux,docker,opencv,tensorflow,bash,cmake,flask,linux,md,notion,qt,ubuntu,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,cpp,vscode,ros,python,arduino,linux,docker,opencv,tensorflow,bash,cmake,flask,linux,md,notion,qt,ubuntu&perline=6" />
   </a>
 </p>
 
